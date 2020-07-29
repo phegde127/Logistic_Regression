@@ -10,3 +10,7 @@ The standard scaler model (logistic_stdscaler.sav) has also been saved for singl
 
 Flask App details: The application to host the diabetic classification problem was written using Flask. This app handles both single and bulk data input for the prediction. 
 Incase of bulk data points, please use the myfile.xlsx to provide data to the app. 
+
+https://diabetic-prediction.herokuapp.com/
+
+
